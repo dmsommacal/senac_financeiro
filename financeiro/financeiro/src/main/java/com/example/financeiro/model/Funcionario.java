@@ -7,6 +7,10 @@ import java.util.List;
 public class Funcionario {
     private List<ExperienciaAnterior>ExperienciaAnterior;
     private List<Certificacoes> Certificacoes;
+    private Escolaridade escolaridade;
+    private EstadoCivil estadoCivil;
+    private Genero genero;
+    private Status status;
     private Cargo cargo;
     private String Nome;
     private String CPF;

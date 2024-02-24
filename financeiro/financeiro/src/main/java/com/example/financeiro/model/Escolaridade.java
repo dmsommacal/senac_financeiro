@@ -1,7 +1,6 @@
 package com.example.financeiro.model;
 
 public enum Escolaridade {
-
-    FudamentalCompleto, FundamentalIncompleto, EnsinoMedioCompleto, EnsinoMedioCIncompleto,
-    SuperiorCompleto, SuperiorIncompleto, GraduacaoCompleta, GraduacaoIncompleta
+    FUNDAMENTAL_COMPLETO, FUNDAMENTAL_INCOMPLETO, MEDIO_COMPLETO, MEDIO_INCOMPLETO,
+    SUPERIOR_COMPLETO, SUPERIOR_INCOMPLETO, GRADUACAO_COMPLETA, GRADUACAO_INCOMPLETA
 }
