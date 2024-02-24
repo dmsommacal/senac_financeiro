@@ -2,5 +2,8 @@ package com.example.financeiro.model;
 
 public enum EstadoCivil {
 
-    CASADO, SOLTEIRO, DIVORCIADO, VIUVO
+    CASADO,
+    SOLTEIRO,
+    DIVORCIADO,
+    VIUVO
 }
